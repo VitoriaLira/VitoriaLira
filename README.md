@@ -1,3 +1,5 @@
+<img align="right" width="250px" src="https://scontent.frec15-1.fna.fbcdn.net/v/t39.30808-6/287715590_1356594644826621_2449544033746228293_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=hjNKGjNwZzgAX_eCbeo&_nc_ht=scontent.frec15-1.fna&oh=00_AT_HwpVWUQf2A06X_oeyOOKkG6TZC-uXMYd_8e9eltjEDg&oe=62ACD893">
+
 <h1 align="center"><img src="https://media.giphy.com/media/eNYPgt0DJBeTr3i6TG/giphy.gif" width="90"> Hello, I'm Vitória Lira <img src="https://media.giphy.com/media/eNYPgt0DJBeTr3i6TG/giphy.gif" width="90"></h1> 
 
 </br>
@@ -11,7 +13,7 @@
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
-<img width="300px" align="right" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
+
 
 </br>    
 
@@ -37,7 +39,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" title = "MARIADB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title = "ORACLE"/></code>
-          
+
 ##
 
 </br>
@@ -47,8 +49,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitoriaLira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaLira&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-  
-</br>
-<img align="right" width="150px" src="https://scontent.frec15-1.fna.fbcdn.net/v/t39.30808-6/287715590_1356594644826621_2449544033746228293_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=hjNKGjNwZzgAX_eCbeo&_nc_ht=scontent.frec15-1.fna&oh=00_AT_HwpVWUQf2A06X_oeyOOKkG6TZC-uXMYd_8e9eltjEDg&oe=62ACD893">
 
-![Snake animation](https://github.com/VitoriaLira/VitoriaLira/blob/output/github-contribution-grid-snake.svg)
+</br>
+
+<img width="300px" align="right" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
+
+<fieldset>
+  ![Snake animation](https://github.com/VitoriaLira/VitoriaLira/blob/output/github-contribution-grid-snake.svg)
+</fieldset>
