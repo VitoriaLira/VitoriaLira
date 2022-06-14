@@ -8,14 +8,17 @@
  <a href="https://www.instagram.com/vitoriallira/">
    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
  </a> 
-
+ 
  <a href="https://www.linkedin.com/in/vit%C3%B3ria-lira-450b721b0/">
    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
  </a>
 </div>
-<img align="right" width="5px" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
+
+<!–- <img align="right" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif"> -–>
 
 </br>
+
+<img align= "right" src="https://media.giphy.com/media/eNYPgt0DJBeTr3i6TG/giphy.gif" width="90">
 
 <div display="inline-block">
   <p align="left">📚 Systems Analysis and Development student.</p>
