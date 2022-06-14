@@ -23,14 +23,10 @@
   <p align="left">💻 Lately I've been studying Java.</p>
   <p align="left">✨ You're always welcome to explore my new adventures on my <a href="https://github.com/VitoriaLira?tab=repositories">Github</a>.</p>
   <p align="left">📫 Feel free to reach me at <a href="mailto:assessoriavitorialira@gmail.com">assessoriavitorialira@gmail.com</a>.</p> 
-  <img align="center" width="80px" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
 </div>
 
-</br> 
-</br>
 </br>
 
-##
 <div>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS3"/></code>
@@ -45,7 +41,12 @@
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title = "ORACLE"/></code>
 </div>
 
+<img align="center" width="80px" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
+
+</br> 
 </br>
+
+##
 
 <div align="center">
   <a href="https://github.com/VitoriaLira">
