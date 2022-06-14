@@ -8,7 +8,9 @@
  <a href="https://www.instagram.com/vitoriallira/">
    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
  </a> 
- 
+ <a href="https://twitter.com/vitoriallira">
+   <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+ </a>
  <a href="https://www.linkedin.com/in/vit%C3%B3ria-lira-450b721b0/">
    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
  </a>
