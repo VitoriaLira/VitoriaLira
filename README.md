@@ -16,8 +16,6 @@
 
 </br>
 
-<img align= "right" src="https://media.giphy.com/media/eNYPgt0DJBeTr3i6TG/giphy.gif" width="90">
-
 <div display="inline-block">
   <p align="left">📚 Systems Analysis and Development student.</p>
   <p align="left">🚀 My goal is to become a Full Stack Developer.</p>
