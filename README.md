@@ -16,7 +16,7 @@
  </a>
 </div>
 
-</br>
+## 
 
 <div display="inline-block">
   <p align="left">📚 Systems Analysis and Development student.</p>
@@ -27,8 +27,11 @@
 </div>
 
 </br>
+</br>
 
 ##
+
+</br>
 
 <div align= "center">
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
