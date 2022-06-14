@@ -19,7 +19,7 @@
 </br>
 
 <div display="inline-block">
-  <p align="left">📚 I'm a Systems Analysis and Development student.</p>
+  <p align="left">📚 I'm a Systems Analysis and Development Student.</p>
   <p align="left">🚀 My goal is to become a Full Stack Developer.</p>
   <p align="left">💻 Lately I've been studying Java.</p>
   <p align="left">✨ You're always welcome to explore my new adventures on my <a href="https://github.com/VitoriaLira?tab=repositories">Github</a>.</p>
