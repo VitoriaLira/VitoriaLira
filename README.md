@@ -14,9 +14,9 @@
  </a>
 </div>
 
-<img align="right" width="80px" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
-
 </br>
+
+##
 
 <div display="inline-block">
   <p align="left">📚 Systems Analysis and Development student.</p>
@@ -56,3 +56,6 @@
 </br>
 
 ![Snake animation](https://github.com/VitoriaLira/VitoriaLira/blob/output/github-contribution-grid-snake.svg)
+
+
+<img align="center" width="30px" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
