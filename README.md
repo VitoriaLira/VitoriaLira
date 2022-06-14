@@ -13,6 +13,7 @@
    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
  </a>
 </div>
+<img align="right" width="5px" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
 
 </br>
 
