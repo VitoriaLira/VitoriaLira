@@ -15,7 +15,7 @@
 </div>
 
 
-</br>    
+</br>
 
 <div display="inline-block">
   <p align="left">📚 Systems Analysis and Development student.</p>
@@ -25,9 +25,9 @@
   <p align="left">📫 Feel free to reach me at <a href="mailto:assessoriavitorialira@gmail.com">assessoriavitorialira@gmail.com</a>.</p> 
 </div>
 
+</br> 
 </br>
-</br>
-
+<img align="right" width="80px" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
 <div>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS3"/></code>
