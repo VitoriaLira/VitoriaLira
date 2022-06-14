@@ -52,8 +52,4 @@
 
 </br>
 
-<img width="300px" align="right" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
-
-<fieldset>
   ![Snake animation](https://github.com/VitoriaLira/VitoriaLira/blob/output/github-contribution-grid-snake.svg)
-</fieldset>
