@@ -14,8 +14,6 @@
  </a>
 </div>
 
-<!–- <img align="right" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif"> -–>
-
 </br>
 
 <img align= "right" src="https://media.giphy.com/media/eNYPgt0DJBeTr3i6TG/giphy.gif" width="90">
