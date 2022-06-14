@@ -1,4 +1,4 @@
-<img align="right" width="200px" src="https://scontent.frec15-1.fna.fbcdn.net/v/t39.30808-6/287715590_1356594644826621_2449544033746228293_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=hjNKGjNwZzgAX_eCbeo&_nc_ht=scontent.frec15-1.fna&oh=00_AT_HwpVWUQf2A06X_oeyOOKkG6TZC-uXMYd_8e9eltjEDg&oe=62ACD893">
+<img align="right" width="250px" src="https://scontent.frec15-1.fna.fbcdn.net/v/t39.30808-6/287715590_1356594644826621_2449544033746228293_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=hjNKGjNwZzgAX_eCbeo&_nc_ht=scontent.frec15-1.fna&oh=00_AT_HwpVWUQf2A06X_oeyOOKkG6TZC-uXMYd_8e9eltjEDg&oe=62ACD893">
 
 <h1 align="center"><img src="https://media.giphy.com/media/eNYPgt0DJBeTr3i6TG/giphy.gif" width="90"> Hello, I'm Vitória Lira <img src="https://media.giphy.com/media/eNYPgt0DJBeTr3i6TG/giphy.gif" width="90"></h1> 
 
@@ -14,6 +14,7 @@
  </a>
 </div>
 
+<img align="right" width="80px" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
 
 </br>
 
@@ -40,10 +41,6 @@
   <code><img width="40px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" title = "MARIADB"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title = "ORACLE"/></code>
 </div>
-
-</br>
-
-<img align="center" width="80px" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
 
 </br> 
 </br>
