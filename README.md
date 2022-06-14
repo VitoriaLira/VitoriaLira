@@ -16,8 +16,6 @@
 
 </br>
 
-##
-
 <div display="inline-block">
   <p align="left">📚 Systems Analysis and Development student.</p>
   <p align="left">🚀 My goal is to become a Full Stack Developer.</p>
@@ -28,7 +26,9 @@
 
 </br>
 
-<div>
+##
+
+<div align= "center">
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS3"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
@@ -45,8 +45,6 @@
 </br> 
 </br>
 
-##
-
 <div align="center">
   <a href="https://github.com/VitoriaLira">
   <img height="147em" src="https://github-readme-stats.vercel.app/api?username=VitoriaLira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -56,6 +54,3 @@
 </br>
 
 ![Snake animation](https://github.com/VitoriaLira/VitoriaLira/blob/output/github-contribution-grid-snake.svg)
-
-
-<img align="center" width="30px" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
