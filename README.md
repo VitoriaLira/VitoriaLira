@@ -23,7 +23,7 @@
   <p align="left">🚀 My goal is to become a Full Stack Developer.</p>
   <p align="left">💻 Lately I've been studying Java.</p>
   <p align="left">✨ You're always welcome to explore my new adventures on my <a href="https://github.com/VitoriaLira?tab=repositories">Github</a>.</p>
-  <p align="left">📫 Feel free to reach me at <a href="mailto:assessoriavitorialira@gmail.com">assessoriavitorialira@gmail.com</a>.</p> 
+  <p align="left">📫 Feel free to contact me at <a href="mailto:assessoriavitorialira@gmail.com">assessoriavitorialira@gmail.com</a>.</p> 
 </div>
 
 </br>
