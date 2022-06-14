@@ -41,6 +41,8 @@
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title = "ORACLE"/></code>
 </div>
 
+</br>
+
 <img align="center" width="80px" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
 
 </br> 
