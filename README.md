@@ -1,6 +1,6 @@
 <img align="right" width="250px" src="https://scontent.frec15-1.fna.fbcdn.net/v/t39.30808-6/287715590_1356594644826621_2449544033746228293_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=tCZK_h2yxHwAX-41AvL&_nc_ht=scontent.frec15-1.fna&oh=00_AfDti-n38E9nMlS0mxZMdSOy4w7ODfK54GIWzKE1UneiXw&oe=64209F93">
 
-<h1 align="center"><img src="https://media.giphy.com/media/eNYPgt0DJBeTr3i6TG/giphy.gif" width="30"> Hello, I'm Vitória Lira <img src="https://media.giphy.com/media/eNYPgt0DJBeTr3i6TG/giphy.gif" width="30"></h1> 
+<h1 align="center"><img src="https://media.giphy.com/media/eNYPgt0DJBeTr3i6TG/giphy.gif" width="25"> Hello, I'm Vitória Lira <img src="https://media.giphy.com/media/eNYPgt0DJBeTr3i6TG/giphy.gif" width="25"></h1> 
 
 </br>
 
